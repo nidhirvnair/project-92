@@ -1,0 +1,16 @@
+body{
+    background-image: url(bg_bf.webp);
+    background-size: cover;
+}
+#L{
+    color: chartreuse;
+}
+#p1{
+    color: cyan;
+}
+#p2 {
+    color: gold;
+}
+#I{
+    color: rgb(88, 26, 235);
+}
